@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                    http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+                            ">
+
+
+<!--    <bean id="advice" class="cn.itcast.test.aop.Advice"/>-->
+<!--    <bean id="target" class="cn.itcast.test.aop.Target"/>-->
+
+<!--    <aop:config>-->
+<!--        <aop:pointcut id="pointcut" expression="execution(* cn.itcast.test.aop.*.*(..))"/>-->
+<!--        <aop:aspect id="advice" ref="advice">-->
+<!--            <aop:before method="before123" pointcut-ref="pointcut"/>-->
+<!--            <aop:after-returning method="afterReturning123" pointcut-ref="pointcut"/>-->
+<!--            <aop:around method="around123" pointcut-ref="pointcut"/>-->
+<!--            <aop:after-throwing method="afterThrowing123" pointcut-ref="pointcut"/>-->
+<!--            <aop:after method="after123" pointcut-ref="pointcut"/>-->
+<!--        </aop:aspect>-->
+<!--    </aop:config>-->
+
+
+</beans>
